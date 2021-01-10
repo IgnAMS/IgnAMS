@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a student and I like to eat pizza, I'm studying Engineering at Pontificia Universidad Católica de Chile.
+
+I code in C++ and in python. 
+
 
 <!--
 **IgnAMS/IgnAMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
