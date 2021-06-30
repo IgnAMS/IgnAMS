@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a student and I like to eat pizza, I'm studying Engineering at Pontificia Universidad Católica de Chile.
 
-I code in C++ andpython. 
+I code in C++ and python. 
 
 
 <!--
